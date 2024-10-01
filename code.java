@@ -9,8 +9,8 @@
  */
 //package Learning.com;
 // Remove this line: package Learning.com; add package according to your folder in pc
-import java.util.Scanner;
 import java.util.Random;
+import java.util.Scanner;
 
 class GuessTheGame{
     Scanner sc = new Scanner(System.in);
@@ -55,7 +55,7 @@ class GuessTheGame{
         sc.close();
     }
 }
-public class Exercise3_Guess_the_number {
+public class code {
     public static void main(String[] args) {
         GuessTheGame P1= new GuessTheGame();
 //        P1.takeUserInput();
