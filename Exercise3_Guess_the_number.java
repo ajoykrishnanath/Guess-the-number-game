@@ -7,7 +7,8 @@
         4. getters and setters for noOfGuesses
         use properties such as noOfGuesses(int), etc to get this task done!
  */
-package Learning.com;
+//package Learning.com;
+// Remove this line: package Learning.com; add package according to your folder in pc
 import java.util.Scanner;
 import java.util.Random;
 
